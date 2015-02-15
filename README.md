@@ -1,1 +1,8 @@
 # Olio2-K2015
+
+1. Täydennä oheinen Kauppa-luokan koodi niin, että tiedostosta
+nokia18032009.txt luetut Nokian osakkeilla tapahtuneet kaupat taltioidaan
+vektoriin, lajitellaan hinnan (osakekurssin) mukaiseen järjestykseen ja lopuksi
+tulostetaan lajittelun tulos tiedostoon harjoitus5t1.txt
+
+
