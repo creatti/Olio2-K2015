@@ -1,3 +1,14 @@
+1. Tee ohjelma, joka lukee käyttäjän syötteen ja tulostaa käyttäjän syöttämät
+erilaiset aakkoset aakkosjärjestyksessä alekkain.( set) 
+
+Kesken:
+2. Tee ohjelma, joka lukee tekstitiedoston ja tulostaa monta kertaa kukin sana
+esiintyi tiedostossa. ( multiset )
+3.Toteuta tehtävä 2 käyttäen map-kokoelmaa
+4. Selvitä tiedostosta nokia18032009.txt ( harjoitus 5) käyttäjän syöttämän
+myyjän kauppojen lukumäärä, myytyjen osakkeiden ja myyjän kauppojen
+yhteissumma. Tulosta tiedot näytölle ja tiedostoon kaikki.txt.
+
 ========================================================================
     CONSOLE APPLICATION : vk10 Project Overview
 ========================================================================
