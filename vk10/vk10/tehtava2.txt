@@ -1,0 +1,10 @@
+Hyväksytty suoritus arvioidaan arvosana-asteikolla 1-5. Arvosana on suoraan harjoitustyöstä ja
+harjoituksista saatavan pistemäärän summa. Alla on tarkempi esitys kurssin kustakin
+osasuorituksesta.
+Harjoitukset:
+Harjoituksista voi saada arvosanan laskemista varten numeron 0-2. Numero 0 merkitsee hylättyä
+harjoitusosuutta; kurssin voi tällöin läpäistä hyväksytyllä harjoitustyöllä.
+Harjoituksista saa numeron seuraavasti:
+• tehtyjä harjoituksia alle 30 % => numero 0
+• tehtyjä harjoituksia väh. 30 % => numero 1
+• tehtyjä harjoituksia väh. 70 % => numero 2
